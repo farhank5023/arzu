@@ -3,61 +3,25 @@ export default function AboutPage() {
     <div className="pt-24 p-10 max-w-6xl mx-auto space-y-12">
 
       {/* Heading */}
-      <div>
+      <div className="text-center">
         <h1 className="text-4xl font-bold text-blue-900 mb-4">
           About Us
         </h1>
-        <p className="text-gray-600 max-w-3xl">
-          Arzu International Manpower Consultant is a global recruitment 
-          organization providing quality manpower solutions across industries.
-        </p>
       </div>
 
-      {/* Company Overview */}
-      <div>
-        <h2 className="text-2xl font-semibold text-blue-900 mb-3">
-          Who We Are
-        </h2>
-        <p className="text-gray-600 leading-relaxed">
-          Established in 1976, Arzu International has been a trusted name in 
-          manpower recruitment for decades. We specialize in sourcing and 
-          deploying skilled workforce from India and Nepal to leading companies 
-          across the Middle East including Saudi Arabia, UAE, Qatar, Oman, 
-          Bahrain, and Kuwait.
+      {/* Main Description */}
+      <div className="text-center">
+        <p className="text-lg text-gray-600 leading-relaxed mb-8">
+          <span className="font-bold">Arzu International Manpower Consultant</span> (Registration No. B-0772/UP/PART/1000+/5/9188/2016) is a global recruitment organization providing quality manpower solutions across various categories of recruitment. We specialize in executing recruitment contracts for industries such as construction, maintenance, hospitality, stevedoring, transport, heavy equipment operations, fishing and marine, electricity generation, transmission, distribution, fabrication, welding, and hotel and catering.
         </p>
-      </div>
-
-      {/* Experience */}
-      <div>
-        <h2 className="text-2xl font-semibold text-blue-900 mb-3">
-          Our Experience
-        </h2>
-        <p className="text-gray-600 leading-relaxed">
-          With over 45 years of experience and more than 25,000 successful 
-          placements, we have built strong relationships with reputed 
-          organizations across various industries such as construction, 
-          oil & gas, healthcare, engineering, and hospitality.
+        
+        <p className="text-lg text-gray-600 leading-relaxed mb-8">
+          <span className="font-bold">Arzu International</span> is a professional HR, recruitment, selection, outsourcing, and manpower sourcing company. We provide various categories of workers including managers, engineers, accountants, supervisors, technicians (mechanics, drivers, operators, welders), fabricators, plumbers, electricians, carpenters, masons, and helpers. We supply skilled, semi-skilled, and unskilled workforces from India to different industries in Middle Eastern countries.
         </p>
-      </div>
 
-      {/* Founder Section */}
-      <div>
-        <h2 className="text-2xl font-semibold text-blue-900 mb-3">
-          Leadership
-        </h2>
-
-        <div className="bg-gray-50 p-6 rounded-lg">
-          <h3 className="text-xl font-bold text-blue-900 mb-2">
-            Zubair Khan
-          </h3>
-          <p className="text-gray-600 leading-relaxed">
-            Founder of Arzu International, Zubair Khan has played a key role 
-            in establishing the company as a reliable manpower solutions 
-            provider. With decades of industry experience, his vision and 
-            leadership have helped build long-term trust with clients and 
-            deliver consistent results in international recruitment.
-          </p>
-        </div>
+        <p className="text-lg text-gray-600 leading-relaxed">
+          Our head office is located in Mumbai, India. We emphasize offering affordable manpower solutions and aim to build long-lasting relationships with clients by providing high-quality candidates. We have successfully deployed a large workforce to major organizations globally.
+        </p>
       </div>
 
     </div>

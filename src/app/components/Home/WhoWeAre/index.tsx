@@ -31,7 +31,7 @@ const WhoWeAre = () => {
       <div className='container'>
         <div className='text-center mb-8'>
           <h2 className='mb-6'>Who We Are</h2>
-          <p className='text-lg font-normal max-w-3xl mx-auto mb-8'>
+          <p className='text-lg font-normal mb-8'>
             M/s Arzu International Manpower Consultant is a proprietary recruiting agency established in the year 1976, with almost four decades of experience in the field of recruitment of manpower from India and Nepal, particularly for countries in the Middle East. We have recruited over 25,000 personnel for reputed companies in the Gulf including Saudi Arabia, Bahrain, Oman, U.A.E., Kuwait, and Qatar.
           </p>
         </div>
