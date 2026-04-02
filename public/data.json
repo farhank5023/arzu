@@ -133,6 +133,38 @@
       "desc": "Established in 1976 with decades of expertise in manpower recruitment."
     }
   ],
+  "WhoWeAreData": [
+    {
+      "imgSrc": "/images/specialization/webdesign.svg",
+      "title": "Expert Leadership",
+      "desc": "Led by industry veterans with 45+ years of combined experience."
+    },
+    {
+      "imgSrc": "/images/specialization/logodesign.svg",
+      "title": "Commitment to Excellence",
+      "desc": "We prioritize quality and professionalism in every recruitment solution."
+    },
+    {
+      "imgSrc": "/images/specialization/mobileapp.svg",
+      "title": "Global Network",
+      "desc": "Connected with top talents and organizations across the Middle East."
+    },
+    {
+      "imgSrc": "/images/specialization/contentwrite.svg",
+      "title": "Customer-Centric Approach",
+      "desc": "Your success is our success - we provide tailored solutions for every client."
+    },
+    {
+      "imgSrc": "/images/specialization/seooptimize.svg",
+      "title": "Innovative Solutions",
+      "desc": "Leveraging technology and expertise to streamline recruitment processes."
+    },
+    {
+      "imgSrc": "/images/specialization/digitalmarketing.svg",
+      "title": "Trusted Partner",
+      "desc": "Building long-term relationships based on reliability and integrity."
+    }
+  ],
   "PlanData": [
     {
       "type": "Basic",

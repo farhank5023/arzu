@@ -43,15 +43,25 @@ const Founder = () => {
               Partner
             </p>
 
-            <p className="text-lg leading-8 text-darkblue/80 dark:text-blue-200 normal-case">
-              Mohammad Arif Khan brings extensive experience in manpower
-              recruitment and operational management. As a Partner, he plays a
-              key role in ensuring seamless execution of recruitment processes,
-              maintaining quality standards, and delivering reliable workforce
-              solutions to clients across multiple industries. His practical
-              approach and commitment to excellence have been instrumental in
-              strengthening long-term client relationships.
-            </p>
+            <div className="relative">
+              <Image
+                src={getImgPath('/images/founder/quote-start.svg')}
+                alt="quote"
+                width={40}
+                height={40}
+                className="absolute -top-4 -left-2 opacity-50"
+              />
+              <p className="text-lg leading-8 text-darkblue/80 dark:text-blue-200 normal-case px-6">
+                Our team combines multilingual expertise with professional trade testing partnerships. Based in Mumbai with a wide network across India and Nepal, we provide efficient candidate sourcing, screening, and professional travel assistance. We maintain the highest standards of quality, flexibility, cost-effectiveness, and ethical business practices to ensure seamless recruitment and successful placement of personnel across diverse industries in the Middle East.
+              </p>
+              <Image
+                src={getImgPath('/images/founder/quote-end.svg')}
+                alt="quote"
+                width={40}
+                height={40}
+                className="absolute -bottom-4 -right-2 opacity-50"
+              />
+            </div>
           </div>
 
         </div>
