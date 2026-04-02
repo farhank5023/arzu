@@ -39,13 +39,17 @@ const Founder = () => {
               Mohammad Arif Khan
             </h3>
 
-            <p className="text-darkblue/80 dark:text-blue-300 text-base font-medium mb-5">
+            <p className="text-darkblue/80 dark:text-blue-300 text-base font-medium mb-1">
               Partner
+            </p>
+
+            <p className="text-darkblue/80 dark:text-blue-300 text-base font-medium mb-6">
+              +91 9987839452
             </p>
 
             <div className="relative">
               <Image
-                src={getImgPath('/images/founder/quote-start.svg')}
+                src={getImgPath('/images/founder/q-2.png')}
                 alt="quote"
                 width={40}
                 height={40}
@@ -55,7 +59,7 @@ const Founder = () => {
                 Our team combines multilingual expertise with professional trade testing partnerships. Based in Mumbai with a wide network across India and Nepal, we provide efficient candidate sourcing, screening, and professional travel assistance. We maintain the highest standards of quality, flexibility, cost-effectiveness, and ethical business practices to ensure seamless recruitment and successful placement of personnel across diverse industries in the Middle East.
               </p>
               <Image
-                src={getImgPath('/images/founder/quote-end.svg')}
+                src={getImgPath('/images/founder/q-1.png')}
                 alt="quote"
                 width={40}
                 height={40}
@@ -87,19 +91,33 @@ const Founder = () => {
               Zubair Ahmad Khan
             </h3>
 
-            <p className="text-darkblue/80 dark:text-blue-300 text-base font-medium mb-5">
+            <p className="text-darkblue/80 dark:text-blue-300 text-base font-medium mb-1">
               Managing Partner
             </p>
 
-            <p className="text-lg leading-8 text-darkblue/80 dark:text-blue-200 normal-case">
-              As the Managing Partner, Zubair Ahmad Khan leads the strategic
-              direction of the organization with a strong focus on growth,
-              client satisfaction, and global expansion. With deep industry
-              expertise, he has been pivotal in positioning Arzu International
-              as a trusted manpower solutions provider across the Middle East.
-              His leadership emphasizes innovation, reliability, and building
-              enduring partnerships with clients worldwide.
+            <p className="text-darkblue/80 dark:text-blue-300 text-base font-medium mb-6">
+              +91 9820251680
             </p>
+
+            <div className="relative">
+              <Image
+                src={getImgPath('/images/founder/q-2.png')}
+                alt="quote"
+                width={40}
+                height={40}
+                className="absolute -top-4 -left-2 opacity-50"
+              />
+              <p className="text-lg leading-8 text-darkblue/80 dark:text-blue-200 normal-case px-6">
+                With 45+ years of industry experience since 1976, our leadership drive focuses on strategic growth and innovation. We've successfully recruited over 25,000 skilled professionals across Saudi Arabia, Bahrain, Oman, UAE, Kuwait, and Qatar. Our commitment to advanced business practices, client-centric solutions, and continuous improvement ensures sustainable partnerships. We leverage state-of-the-art infrastructure and professional expertise to deliver customized workforce solutions that exceed client expectations and maintain industry leadership standards.
+              </p>
+              <Image
+                src={getImgPath('/images/founder/q-1.png')}
+                alt="quote"
+                width={40}
+                height={40}
+                className="absolute -bottom-4 -right-2 opacity-50"
+              />
+            </div>
           </div>
 
         </div>
