@@ -1,0 +1,214 @@
+{
+  "HeroData": [
+    {
+      "imgSrc": "/images/project/cons.jpg"
+    },
+    {
+      "imgSrc": "/images/project/engine.jpg"
+    },
+    {
+      "imgSrc": "/images/project/hospitality.jpg"
+    },
+    {
+      "imgSrc": "/images/project/oil.jpg"
+    }
+  ],
+  "NavLinkData": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Mission",
+      "href": "/mission"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+   "ProjectData": [
+    {
+      "name": "Construction",
+      "coverImg": "/images/project/cons.jpg"
+    },
+    {
+      "name": "Oil & Gas",
+      "coverImg": "/images/project/oil.jpg"
+    },
+    {
+      "name": "Healthcare",
+      "coverImg": "/images/project/health.jpg"
+    },
+    {
+      "name": "Electrical & Engineering",
+      "coverImg": "/images/project/engine.jpg"
+    },
+    {
+      "name": "Hospitality",
+      "coverImg": "/images/project/hospitality.jpg"
+    },
+    {
+      "name": "Maintenance Services",
+      "coverImg": "/images/project/maintenance.jpg"
+    }
+  ],
+  
+  "RecordData": [
+    {
+      "digit": "25,000+",
+      "desc": "Workforce Recruited",
+      "imgSrc": "/images/records/cart.svg"
+    },
+    {
+      "digit": "45+ Years",
+      "desc": "Industry Experience",
+      "imgSrc": "/images/records/star.svg"
+    },
+    {
+      "digit": "6+ Countries",
+      "desc": "Middle East Presence",
+      "imgSrc": "/images/records/user.svg"
+    },
+    {
+      "digit": "100+ Clients",
+      "desc": "Trusted Partnerships",
+      "imgSrc": "/images/records/cart.svg"
+    }
+  ],
+  
+  "ReviewData": [
+    {
+      "imgSrc": "/images/review/daniel.webp",
+      "name": "Daniel Reid",
+      "rating": 4.2,
+      "desc": "Pixelize nailed our website redesign. Clean layout, fast loading, and mobile-friendly. Highly recommended!"
+    },
+    {
+      "imgSrc": "/images/review/sophia.webp",
+      "name": "Sophia Turner",
+      "rating": 4.5,
+      "desc": "The UI/UX improvements boosted our user engagement and conversions. Truly a professional team!"
+    },
+    {
+      "imgSrc": "/images/review/marcus.webp",
+      "name": "Marcus Lee",
+      "rating": 4.8,
+      "desc": "They understood our brand vision perfectly and delivered a logo that stands out in our industry."
+    }
+  ],
+  "SpecializeData": [
+    {
+      "imgSrc": "/images/specialization/webdesign.svg",
+      "title": "Verified Workforce",
+      "desc": "Proper screening and selection of skilled and reliable candidates."
+    },
+    {
+      "imgSrc": "/images/specialization/logodesign.svg",
+      "title": "Fast Deployment",
+      "desc": "Efficient processes ensuring timely manpower delivery."
+    },
+    {
+      "imgSrc": "/images/specialization/mobileapp.svg",
+      "title": "Global Reach",
+      "desc": "Serving leading companies across multiple Middle East countries."
+    },
+    {
+      "imgSrc": "/images/specialization/contentwrite.svg",
+      "title": "Wide Industry Coverage",
+      "desc": "Providing workforce across construction, oil & gas, healthcare and more."
+    },
+    {
+      "imgSrc": "/images/specialization/seooptimize.svg",
+      "title": "Trusted by Clients",
+      "desc": "Building long-term relationships with reputed organizations."
+    },
+    {
+      "imgSrc": "/images/specialization/digitalmarketing.svg",
+      "title": "45+ Years Experience",
+      "desc": "Established in 1976 with decades of expertise in manpower recruitment."
+    }
+  ],
+  "PlanData": [
+    {
+      "type": "Basic",
+      "price": {
+        "monthly": 9,
+        "yearly": 95
+      },
+      "desc": "Ideal for freelancers and startups.",
+      "option": [
+        "Consultation with strategy session",
+        "Basic design and development",
+        "One revision per project",
+        "Responsive on all devices",
+        "Email support included only"
+      ]
+    },
+    {
+      "type": "Pro",
+      "price": {
+        "monthly": 19,
+        "yearly": 185
+      },
+      "desc": "Perfect for small growing teams.",
+      "option": [
+        "Advanced project planning support",
+        "Premium design and development",
+        "Three revisions per project",
+        "Fully responsive and optimized",
+        "Priority email and chat support"
+      ]
+    }
+  ],
+  "CategoryData": [
+    {
+      "imgSrc": "/images/category/webdev.webp",
+      "title": "Requirement Analysis"
+    },
+    {
+      "imgSrc": "/images/category/logods.webp",
+      "title": "Candidate Sourcing"
+    },
+    {
+      "imgSrc": "/images/category/mobileapp.webp",
+      "title": "Screening & Shortlisting"
+    },
+    {
+      "imgSrc": "/images/category/contentwrite.webp",
+      "title": "Interview & Selection"
+    },
+    {
+      "imgSrc": "/images/category/digitalmarket.webp",
+      "title": "Documentation"
+    },
+    {
+      "imgSrc": "/images/category/digitalmarket.webp",
+      "title": "Deployment"
+    }
+  ],
+  "FooterLinkData": [
+    {
+      "section": "More",
+      "links": [
+        {
+          "label": "About",
+          "href": "/about"
+        },
+        {
+          "label": "Contact",
+          "href": "/contact"
+        },
+        {
+          "label": "Mission",
+          "href": "/mission"
+        }
+      ]
+    }
+  ]
+}
+
